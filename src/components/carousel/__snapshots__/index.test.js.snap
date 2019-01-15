@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Carousel Carousel snapshot 1`] = `
+<div
+  className="sc-bxivhb MHFwm"
+>
+  <span
+    className="Carousel__container"
+  >
+    <div
+      className="level2 sc-bdVaJa gMeSEE"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <img
+        className="sc-bwzfXH igVZrO"
+      />
+    </div>
+    <div
+      className="level1 sc-bdVaJa gMeSEE"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <img
+        className="sc-bwzfXH igVZrO"
+      />
+    </div>
+    <div
+      className="level0 sc-bdVaJa gMeSEE"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <img
+        className="sc-bwzfXH igVZrO"
+      />
+    </div>
+    <div
+      className="level-1 sc-bdVaJa gMeSEE"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <img
+        className="sc-bwzfXH igVZrO"
+      />
+    </div>
+    <div
+      className="level-2 sc-bdVaJa gMeSEE"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+    >
+      <img
+        className="sc-bwzfXH igVZrO"
+      />
+    </div>
+  </span>
+  <button
+    className="sc-htpNat eDRANG"
+    direction="prev"
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    tabIndex="0"
+  >
+    Prev
+  </button>
+  <button
+    className="sc-htpNat ieaWvi"
+    direction="next"
+    onClick={[Function]}
+    onKeyPress={[Function]}
+    tabIndex="0"
+  >
+    Next
+  </button>
+</div>
+`;
